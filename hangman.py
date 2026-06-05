@@ -13,7 +13,7 @@ WORDS = [
     "challenge",
 ]
 
-MAX_TRIES = 6
+MAX_TRIES = 10
 
 
 def choose_word():
