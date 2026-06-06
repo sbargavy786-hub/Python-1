@@ -9,7 +9,7 @@ words = [
 ]
 
 word, hint = random.choice(words)
-max_wrong = 6
+max_wrong = 10
 wrong_guesses = set()
 guessed_letters = set()
 
